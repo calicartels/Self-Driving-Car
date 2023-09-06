@@ -1,8 +1,9 @@
 <h1 align="center">Self driving car</h1>
 
 ## Introduction
-  <img align="center" src="steering_wheel_image.jpg" width=25%/><br>
-
+<p align="center">
+  <img src="steering_wheel_image.jpg" width=25%/><br>
+</p>
 The problem of fully autonomous cars is interesting but complex as a whole. The first step towards solving this problem is to get comfortable steering the car. We can do this by predicting the steering angle given a sequence of images or a video.
 
 ## Dataset
